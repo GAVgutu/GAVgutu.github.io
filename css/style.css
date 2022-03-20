@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	background-color: #123456;
+	color: #fff;
+}
+
+h1,li{
+	text-align: center;
+	margin-top: 35px;
+}
+
+
+.bottom{
+	width:100%;
+	height:15px;
+	position:fixed;
+	bottom: 5px;
+	font-size:12px;
+	text-align: center;
+	color: #d0d0d0;
+}

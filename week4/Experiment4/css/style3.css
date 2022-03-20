@@ -1,0 +1,19 @@
+@charset "utf-8";
+body{
+	background-color: #123456;
+}
+h2{
+	color: #fff;
+}
+
+ol li{
+	color: #654321;
+}
+
+h3{
+	color: #55f;
+}
+
+ul li{
+	color: #fff666;
+}
