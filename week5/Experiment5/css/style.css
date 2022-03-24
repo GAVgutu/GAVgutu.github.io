@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+body{
+    background-color: #fffce9;
+    background-image: url(../images/bj2.JPG);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+p{
+    text-indent: 2em;
+    line-height: 40px;
+    color: #c00000;
+    font-size: 16px;
+}
+
+#xc{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p span{
+    font-size: 50px;
+    font-style: italic;
+    color: #f00000;
+    font-weight: bold;
+}
+#hc{
+    text-align: right;
+}
