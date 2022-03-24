@@ -50,7 +50,7 @@
 - text-indent 首行缩进
   - text-indent: 2em;
 - line-height 行高
-  - 1
+  - line-height: 40px;
     - normal	默认。设置合理的行间距。
     - number	设置数字，此数字会与当前的字体尺寸相乘来设置行间距。
     - length	设置固定的行间距。
