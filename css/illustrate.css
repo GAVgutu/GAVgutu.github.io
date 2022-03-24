@@ -2,3 +2,7 @@ html,body{
   background-color:#123456;
   color:#fff;
 }
+
+code{
+  font-size:18px;
+}
