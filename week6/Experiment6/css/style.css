@@ -5,3 +5,6 @@ div{
 	border: 5px solid #267445;
 	background-color: #ccc;
 }
+div h1{
+	color: #267445;
+}
