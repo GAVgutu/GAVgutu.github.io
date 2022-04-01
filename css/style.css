@@ -9,7 +9,9 @@ h1,li{
 	text-align: center;
 	margin-top: 35px;
 }
-
+ol{
+	margin-bottom:20px;
+}
 
 .bottom{
 	width:100%;
