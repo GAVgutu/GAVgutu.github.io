@@ -1,7 +1,7 @@
 @charset "utf-8";
 #main{
 	background-color: #d0e784;
-	height: 635px;
+	height: 700px;
 }
 #left{
 	width: 190px;
@@ -31,7 +31,7 @@
 	background-image: url(../image/ch.jpg);
 	background-repeat: no-repeat;
 	background-position: right bottom;
-	height: 635px;
+	height: 700px;
 }
 #center h4{
 	color: #6ca84a;
@@ -48,7 +48,7 @@
 	background-color: #d0e784;
 	float: left;
 	text-align: center;
-	height: 635px;
+	height: 700px;
 }
 #right img{
 	width: 180px;
