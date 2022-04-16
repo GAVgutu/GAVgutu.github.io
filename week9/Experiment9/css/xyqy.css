@@ -1,0 +1,27 @@
+#main-box {
+	margin: 0px 50px;
+	margin-top: 50px;
+}
+
+#main-left{
+	float: left;
+}
+#main-left p{
+	text-decoration: line-through;
+}
+#main-left span{
+	font-size: 25px;
+	color: #ff0000;
+	text-decoration: none;
+}
+#main-right{
+	float: left;
+	margin: 15px 15px;
+	width: 550px;
+}
+#main-right p{
+	line-height: 30px;
+	font-family: "franklin gothic demi cond";
+	text-indent: 2em;
+	letter-spacing: 2px;
+}
