@@ -4,6 +4,12 @@
 	background-color: #123456;
 	color: #fff;
 }
+width: 100%;
+        height: 100%;
+        background: url(./image/bz.png) no-repeat;
+        /* background-size: 100% 100%; */
+        background-size:cover;
+        background-position:100%;
 
 h1,li{
 	text-align: center;
