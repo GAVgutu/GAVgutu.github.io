@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+#main{
+	height: 350px;
+	background-image: url(../images/hairuan/hairuan5.JPG);
+	background-size:cover;
+	background-position:100%;
+	background-attachment: fixed;
+	padding-top: 150px;
+}
+#main h1{
+	color: #267445;
+	font-size: 100px;
+	text-align: center;
+	border-bottom: 10px solid #267445;
+	margin: 0px 300px;
+}
+#main h1:hover{
+	color: #ffff00;
+	border-bottom: 10px solid #ffff00;
+}

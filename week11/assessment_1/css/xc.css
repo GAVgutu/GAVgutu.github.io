@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+#main h4{
+	background-image: url(../images/xin.gif);
+	padding-left: 20px;
+	background-repeat: no-repeat;
+	border-bottom: 2px solid #267445;
+	margin-top: 10px;
+}
+#main ul{
+	margin-left: 85px;
+	overflow: hidden;
+}
+#main ul li{
+	float: left;
+	list-style-type: none;
+	text-align: center;
+	border: 1px solid #ccc;
+	margin: 10px;
+	padding: 10px 15px;
+}
+#main ul li img{
+	width: 250px;
+	
+}
+#main ul li p{
+	padding: 5px 0px;
+	margin: 5px 0px;
+	border-top: 1px dashed #ccc;
+	border-bottom: 1px dashed  #ccc;
+}
